@@ -8,17 +8,17 @@
 
 @font-face {
     font-family: 'bold';
-    src: url(../assets/font/Urbanist-Bold.ttf);
+    src: url(../font/Urbanist-Bold.ttf);
 }
 
 @font-face {
     font-family: 'semibold';
-    src: url(../assets/font/Urbanist-SemiBold.ttf);
+    src: url(../font/Urbanist-SemiBold.ttf);
 }
 
 @font-face {
     font-family: 'medium';
-    src: url(../assets/font/Urbanist-Medium.ttf);
+    src: url(../font/Urbanist-Medium.ttf);
 }
 
 body{
